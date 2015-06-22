@@ -10,7 +10,7 @@ import logging
 
 from schema import Schema
 
-from clj import dumps, loads
+from edn_format import dumps, loads
 import json
 from itertools import izip
 

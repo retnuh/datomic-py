@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
   name='datomic',
-  version='0.1.2dev',
+  version='0.1.3dev',
   description='Interface to the Datomic REST API',
   #long_description=open('README.md').read(),
   author='Tony Landis',
